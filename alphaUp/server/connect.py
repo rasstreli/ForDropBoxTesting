@@ -17,5 +17,3 @@ class Connection(object):
         self.password = password
 
     def login(self):
-
-
