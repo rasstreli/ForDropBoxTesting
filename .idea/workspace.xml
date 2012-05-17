@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8669e5b-7417-4c3d-8dce-20e1bef2bd28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/alphaUp/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/dropb.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/server/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/server/connect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/server/rest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dropb/settings.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alphaUp/server/connect.py" afterPath="$PROJECT_DIR$/alphaUp/server/connect.py" />
     </list>
     <ignored path="ForDropBoxTesting.iws" />
@@ -48,13 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connect.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="connect.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alphaUp/server/connect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.45531198">
+            <state line="17" column="20" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#21#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="6" selection-start="108" selection-end="108" vertical-scroll-proportion="0.35413152">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,6 +100,7 @@
         <option value="$PROJECT_DIR$/alphaUp/__init__.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/alphaUp/server/connect.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -361,10 +358,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alphaUp/server/connect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.45531198">
+        <state line="17" column="20" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#21#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="108" selection-end="108" vertical-scroll-proportion="0.35413152">
+          <folding />
         </state>
       </provider>
     </entry>
