@@ -1,7 +1,7 @@
 __author__ = 'pavel'
-APP_KEY = "j57wrekrssks5a5"
+APP_KEY = ""
 
-APP_SECRET = "76cgopzuyv27gq7"
+APP_SECRET = ""
 
-ACCESS_TYPE = "app_folder"
+ACCESS_TYPE = ""
 
